@@ -1,0 +1,106 @@
+    1  cd
+    2  echo $0 bash
+    3  pwd
+    4  cd ..
+    5  cd /
+    6  cd /home/ubuntu
+    7  cd workspace
+    8  mkdir unix101
+    9  ls
+   10  ls/a
+   11  mkdir unix102
+   12  ls
+   13  cd unix101
+   14  mkdir html
+   15  mkdir css
+   16  mkdir js
+   17  mkdir images
+   18  ls
+   19  mv css html
+   20  ls
+   21  mv images hmtl
+   22  mv js html
+   23  ls
+   24  ls html
+   25  mv images html
+   26  touch index.html
+   27  ls
+   28  ls -a
+   29  cd ..
+   30  ls
+   31  ls -a
+   32  cd .
+   33  cd html
+   34  mkdir html
+   35  cd html
+   36  ls -1
+   37  mkdir images
+   38  mkdir css
+   39  mkdir js
+   40  mv images html
+   41  mv css html
+   42  mv  js html
+   43  ls
+   44  touch readme.txt
+   45  touch salaries.txt
+   46  touch accountingsoftware.js
+   47  ls -1
+   48  ls -l
+   49  chmod 600 salaries.txt
+   50  ls -l
+   51  chmod accountingsoftware.txt 770
+   52  chmod 770 accountingsoftware.js
+   53  ls -l
+   54  mv accountingsoftware.js js
+   55  ls -l
+   56  c9 i
+   57  c9 index.html
+   58  ls
+   59  touch index
+   60  mv index index.html
+   61  c9 index.html 
+   62  cd $home
+   63  pwd
+   64  ls
+   65  mkdir Rebecca
+   66  mkdir mancini
+   67  pwd
+   68  ls
+   69  mkdir unixone-rebecca
+   70  mkdir unixone-mancini
+   71  myFile.txt
+   72  touch myFile.txt
+   73  presto filo content!
+   74  cd .
+   75  pwd
+   76  ls
+   77  cd $home
+   78  cd workspace
+   79  ls
+   80  mkdir unixone-rebecca
+   81  mkdir unixone-mancini
+   82  touch myfile.txt
+   83  Presto Filo Contents!
+   84  ls
+   85  echo 
+   86  echo "Presto Filo Contents!"> myFile.txt 
+   87  cd .
+   88  c9 open myFile.txt
+   89  cp dayTwoMancini unixone-mancini mysecondfile.txt
+   90  cp dayTwoMancini unixone-mancini mv myFile.txt my2ndfile.txt
+   91  cp daytwomancini unixone-rebecca touch mv myFile.txt my2ndfile.txt
+   92  mv myfile.txt my2ndfile.txt cp daytwomancini unixone-rebecca
+   93  cp daytwo-mancini unixone-rebecca mv my2ndfile.txt myfile.txt
+   94  mv my2ndfile.txt myfile.txt cp daytwo-mancini unixone-rebecca
+   95  cp my2ndfile.txt myfile.txt daytwo-mancini unixone-rebecca
+   96  mkdir daytwo-mancini
+   97  cp unixone-rebecca/myfile.txt daytwo-mancini/my2ndfile.txt
+   98  ls -l
+   99  chmod 666 my2ndfile.txt
+  100  cp daytwo-mancini/my2ndfile.txt unixone-rebecca/myfile.txt
+  101  ls
+  102  ls -l
+  103  chmod 666 my2ndfile.txt
+  104  vi Presto Magic Contents! 2nd line 
+  105  history> rebecca-mancini-history.txt
+  106  history>rebecca-mancini-history.txt

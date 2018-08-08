@@ -1,0 +1,3 @@
+:s/Filo/Magic/gi
+:O 2nd line
+
