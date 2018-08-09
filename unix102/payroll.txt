@@ -1,0 +1,13 @@
+CareerDevs Payroll
+(For Accounting Dept Eyes ONLY!!!)
+
+Name          Pay
+__________    ___________
+Arnell        $0
+Cliff         $1,000,000
+Reece         $750,000
+
+hello $54000
+hello $9000000
+hello $90000
+hello 890000
