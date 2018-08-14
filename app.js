@@ -59,3 +59,16 @@ link.addEventListener('click', function(e)){
     console.log(navigation to', e.target.textContent,'was prevented');
     })
 }
+
+//lesson10
+
+        
+        const list = document.querySelector('#book-list ul');
+    //delete books    
+        list.addEventListener('click', function(e){
+            if(e.target.parentELement;
+        
+        li.parentNode.removeChild(li);
+}
+})
+
