@@ -82,6 +82,16 @@ addForm.addEventListener('submit', function(e) {
     console.log(value);
 });
 
+//hide books
+const hideBox = document.querySelector('#hide');
+hideBox.addEventListener('change', function(e){
+    if(hideBox.checked){
+        list.style.display = "none";
+    } else {
+        list.style.display = "initial";
+    }
+});
+
 //lesson12
 //create elements
 const li = document.createElement('li');
