@@ -108,6 +108,19 @@ li.appendChild(deleteBtn);
 list.appendChild(li);
 });
 
+document.addEventListener('DOMContentLoaded', function (){
+
+const list = document.querySelector('#book-list ul');
+
+
+
+//delete books
+list.addEventListener('click', function(e){-
+
+//add books
+const addForm = document.forms['add-book'];
+addForm.addEventListener('submit',function(e){-
+
 //lesson16
 
 //hide books
@@ -132,7 +145,4 @@ const searchBar = document.forms['search-books'].querySelector('input')searchBar
             book.style.display = 'none';
         }
     })
-        
-        
-
 });
